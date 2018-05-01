@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile---Notification" transform="translate(-78.000000, -138.000000)" fill="#7ED321">
+            <g id="notification---success" transform="translate(57.000000, 118.000000)">
+                <g id="Group-4" transform="translate(21.000000, 20.000000)">
+                    <path d="M20,0 L20,0 C31.045695,-2.02906125e-15 40,8.954305 40,20 L40,20 C40,31.045695 31.045695,40 20,40 L20,40 L20,40 C8.954305,40 -9.30543353e-15,31.045695 -1.0658141e-14,20 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 L20,0 Z M10.9625745,20.4494025 C10.6484463,20.1387012 10.141922,20.1414792 9.83122065,20.4556073 C9.52051934,20.7697355 9.52329735,21.2762599 9.83742552,21.5869612 L16.0874255,27.7687794 C16.39912,28.0770735 16.90088,28.0770735 17.2125745,27.7687794 L30.9625745,14.1687794 C31.2767026,13.858078 31.2794807,13.3515537 30.9687794,13.0374255 C30.658078,12.7232974 30.1515537,12.7205193 29.8374255,13.0312206 L16.65,26.0747833 L10.9625745,20.4494025 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

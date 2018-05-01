@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon 24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Whipers---Contact-Form" transform="translate(-922.000000, -124.000000)">
+            <g id="Group-5" transform="translate(470.000000, 104.000000)">
+                <g id="Icon-24px" transform="translate(450.000000, 18.000000)">
+                    <polygon id="Shape" points="0 0 33.8515625 0 33.8515625 33.8515625 0 33.8515625"></polygon>
+                    <path d="M16.9257812,2.82096354 C9.12581706,2.82096354 2.82096354,9.12581706 2.82096354,16.9257812 C2.82096354,24.7257454 9.12581706,31.030599 16.9257812,31.030599 C24.7257454,31.030599 31.030599,24.7257454 31.030599,16.9257812 C31.030599,9.12581706 24.7257454,2.82096354 16.9257812,2.82096354 L16.9257812,2.82096354 Z" id="Shape" fill="#000000"></path>
+                    <polygon id="Path" fill="#FFFFFF" points="20.578929 11.2838542 16.9257813 14.937002 13.2726335 11.2838542 11.2838542 13.2726335 14.937002 16.9257813 11.2838542 20.578929 13.2726335 22.5677083 16.9257813 18.9145605 20.578929 22.5677083 22.5677083 20.578929 18.9145605 16.9257813 22.5677083 13.2726335"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

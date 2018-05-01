@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="54px" viewBox="0 0 55 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-telegram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.8%" y="-14.7%" width="107.5%" height="141.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Whipers---Home" transform="translate(-311.000000, -656.000000)">
+            <g id="hero-section">
+                <g id="socials" filter="url(#filter-1)" transform="translate(155.000000, 630.000000)">
+                    <g id="icon-telegram" transform="translate(164.000000, 30.000000)">
+                        <path d="M0,19 C0,8.50658923 8.59973419,0 19.2080451,0 C29.816356,0 38.4160902,8.50658923 38.4160902,19 C38.4160902,29.4934108 29.816356,38 19.2080451,38 C8.59973419,38 0,29.4934108 0,19 Z" id="back" fill="#61A8DE"></path>
+                        <path d="M26.7163894,11.0663982 L8.42486855,18.2582727 C7.83230974,18.4912698 7.86832243,19.3490746 8.47821235,19.5305974 L13.1264004,20.915333 L14.8610867,26.4690364 C15.0422005,27.0491826 15.7707822,27.2248767 16.1925058,26.7904483 L18.5956777,24.314608 L23.3109394,27.8067639 C23.8879677,28.2340766 24.7097323,27.9164496 24.8562589,27.2097371 L27.9792345,12.1453913 C28.1322134,11.40734 27.4127098,10.7926001 26.7163894,11.0663982 Z M23.6412284,14.2289904 L15.6185612,21.8449234 C15.5385769,21.920669 15.4876391,22.0258459 15.475737,22.1396164 L15.1669222,25.0871552 C15.1566497,25.1834343 15.0313243,25.1962107 15.0047573,25.1038102 L13.7336503,20.7077504 C13.6755571,20.5066747 13.7513616,20.2885638 13.9182732,20.1775311 L23.3924196,13.8698071 C23.6101982,13.7248562 23.8332901,14.0465469 23.6412284,14.2289904 Z" id="Fill-2" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

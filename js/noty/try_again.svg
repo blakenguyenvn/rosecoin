@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="15px" viewBox="0 0 74 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Try again</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="14.3222953%" y1="16.7351991%" x2="78.5856008%" y2="89.8020213%" id="linearGradient-1">
+            <stop stop-color="#FB167F" offset="0%"></stop>
+            <stop stop-color="#FF4958" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="16" font-family="GothamRounded-Bold, Gotham Rounded" font-weight="bold">
+        <g id="Mobile---Notification" transform="translate(-262.000000, -371.000000)" fill="url(#linearGradient-1)">
+            <g id="notification---error" transform="translate(57.000000, 338.000000)">
+                <text id="Try-again">
+                    <tspan x="205.092" y="45">Try again</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

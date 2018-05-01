@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210px" height="60px" viewBox="0 0 210 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>submit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Whipers---Home" transform="translate(-877.000000, -788.000000)">
+            <g id="pre-sales" transform="translate(0.000000, 768.000000)">
+                <g id="Group-12" transform="translate(354.000000, 7.000000)">
+                    <g id="submit" transform="translate(523.000000, 13.000000)">
+                        <rect id="Rectangle-5" fill="#555177" transform="translate(105.000000, 30.000000) scale(-1, -1) translate(-105.000000, -30.000000) " x="0" y="0" width="210" height="60" rx="30"></rect>
+                        <g id="arrow-right" transform="translate(154.000000, 21.000000)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M0,9 L24,9" id="Shape"></path>
+                            <polyline id="Shape" points="15 0 24 9 15 18"></polyline>
+                        </g>
+                        <text id="Buy-now" font-family="GothamRounded-Bold, Gotham Rounded" font-size="20" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="49.46" y="36">Buy now</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,281 @@
+.center-align {
+    text-align: center;
+}
+
+.follow-us ul,
+.follow-us li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.follow-us li {
+    display: inline-block;
+    vertical-align: middle;
+    width: 50px;
+}
+
+a {
+    color: #0077B5;
+    word-wrap: break-word;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.header-slide:before {
+    /* Rectangle 3: */
+    background-image: url('../images/presale/bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: transparent;
+}
+
+.count-down {
+    text-align: center;
+    padding: 20px 30px 20px;
+    position: relative;
+    margin: 380px auto 0;
+    max-width: 500px;
+    position: relative;
+}
+
+.count-down .section-title {
+    font-size: 40px;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+    position: absolute;
+    top: -100px;
+    left: 0;
+    font-family: gotham-bold, sans-serif;
+}
+
+.count-down .percent {
+    margin-top: -70px;
+}
+
+.count-down:after {
+    /* Rectangle: */
+    background: #6088CE;
+    border-radius: 8px;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.count-down.presale-count-down h3,
+.count-down.presale-count-down p {
+    color: #ffffff;
+    line-height: 1.2;
+}
+
+.count-down.presale-count-down h3 {
+    margin-top: 20px;
+}
+
+.count-down.presale-count-down p {
+    font-weight: normal;
+    color: rgba(255, 255, 255, .8);
+    font-size: 15px;
+}
+
+.count-down-wrapper .bottom-info {
+    margin-top: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
+    text-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+#presale-info {
+    background: #f8f8f8;
+    padding-bottom: 80px;
+}
+
+.buy-rosecoin-block {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.buy-rosecoin-block .border-top {
+    /* Rectangle 10: */
+    background-image: linear-gradient(-146deg, #65AFCD 0%, #4957B8 100%);
+    height: 10px;
+    display: block;
+}
+
+.buy-rosecoin-block .block-content {
+    padding: 30px 40px;
+}
+
+.buy-rosecoin-block h5 {
+    color: rgba(0, 0, 0, .5);
+    font-size: 18px;
+}
+
+.buy-rosecoin-block .divider {
+    display: block;
+    height: 1px;
+    background: #ddd;
+    margin: 30px 0;
+}
+
+.buy-rosecoin-block .block-content .header-image {
+    margin-bottom: 30px;
+}
+
+.buy-rosecoin-block .block-content p.code {
+    margin-bottom: 20px;
+}
+
+.buy-rosecoin-block .block-content strong {
+    color: #000;
+    font-size: 22px;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+
+.buy-rosecoin-block .block-content p.notice {
+    color: #FD3865;
+    font-size: 16px;
+}
+
+.list-notes {
+    list-style: decimal;
+    list-style-position: outside;
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+.list-notes li {
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.list-notes li a {
+    word-break: break-all;
+}
+
+#joinConversation {
+    padding-bottom: 40px;
+}
+
+.ui.button-white,
+.ui.button-white:active {
+    min-width: 140px;
+    background: #fff;
+    border: solid 1px #D6D6D6;
+    color: #000;
+    margin: 0 auto 5px;
+    transition: all 0.2s linear;
+}
+.ui.button-white:hover {
+    background: #D6D6D6;
+}
+
+#transactionDataCodeTextarea,
+#addressCodeTextarea {
+    opacity: 0;
+    height: 0;
+    width: 0;
+    position: absolute;
+    left: -99999px;
+}
+
+.rosecoin-logo-mobile {
+    display: none;
+}
+
+.rosecoin-logo-mobile img {
+    width: 90px;
+}
+
+@media only screen and (max-width: 1280px) {
+    .count-down {
+        margin-top: 300px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    body,
+    .buy-rosecoin-block .block-content p.notice {
+        font-size: 14px;
+    }
+    section:not(.footer) {
+        padding: 0 20px;
+    }
+    section .heading {
+        font-size: 28px;
+    }
+    .buy-rosecoin-block .block-content {
+        padding: 30px 20px;
+    }
+    .count-down .section-title {
+        font-size: 38px;
+    }
+
+    .header-slide:before {
+        background-size: auto 100%;
+    }
+    section.header .header-slide {
+        padding-bottom: 30px;
+    }
+    .buy-rosecoin-block .block-content strong {
+        font-size: 18px;
+    }
+    #howToSend .info {
+        padding-top: 20px;
+    }
+
+    .dowload-buttons {
+        display: none;
+    }
+
+    section.footer .twitter-widget {
+        margin-top: 0;
+    }
+
+    section.footer .twitter-widget .tweet .message {
+        padding-left: 0;
+    }
+
+    section.header .container .menu-mobile i.menu-toggle {
+        margin-right: 30px;
+    }
+
+    section.header .container .logo {
+        padding-left: 40px;
+        padding-right: 0;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .buy-rosecoin-block {
+        margin-top: 30px;
+    }
+    .count-down {
+        margin-top: 380px;
+    }
+
+    .count-down .section-title {
+        top: -200px;
+        font-size: 32px;
+    }
+
+    .rosecoin-logo-mobile {
+        display: block;
+    }
+    section .heading {
+        margin-bottom: 0;
+    }
+    section .subheading {
+        padding: 0 20px;
+    }
+
+    .follow-us {
+        padding-left: 10px;    
+    }
+}

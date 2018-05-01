@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-20.3%" y="-17.2%" width="140.6%" height="140.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="31.8513924" cy="31.8513924" r="31.8513924"></circle>
+        <polygon id="path-4" points="0.00564253273 31.9999657 0.00564253273 0.0055695509 37.0094662 0.0055695509 37.0094662 31.9999657"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Whipers---Pre-sales" transform="translate(-610.000000, -3245.000000)">
+            <g id="join-us" transform="translate(155.000000, 3144.000000)">
+                <g id="icon-medium" filter="url(#filter-1)" transform="translate(463.000000, 107.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Oval-2" fill="#FFFFFF" xlink:href="#path-2"></use>
+                    <g id="medium" mask="url(#mask-3)">
+                        <g transform="translate(13.473684, 16.842105)">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <g id="Clip-2" stroke="none" fill="none"></g>
+                            <path d="M36.1164414,31.936479 L24.718055,26.354012 L24.6321945,1.0479521 C24.6302196,0.457197605 25.2355693,0.0679281437 25.7581619,0.323928144 L36.5643644,5.61791617 C36.8364285,5.75118563 37.0094662,6.03161677 37.0094662,6.33916168 L37.0094662,31.3644072 C37.0093722,31.8320479 36.530039,32.1391138 36.1164414,31.936479" id="Fill-1" stroke="none" fill="#68B973" fill-rule="evenodd" mask="url(#mask-5)"></path>
+                            <path d="M24.718055,26.354012 L12.3815976,20.3111856 L24.2580005,0.39051497 C24.4678087,0.0386107784 24.9055752,-0.0937005988 25.2698007,0.0846946108 L36.227035,5.45274251 C36.645899,5.65796407 36.7992819,6.18673054 36.5571232,6.5908503 L24.718055,26.354012" id="Fill-3" stroke="none" fill="#54B263" fill-rule="evenodd" mask="url(#mask-5)"></path>
+                            <path d="M24.718055,26.354012 L12.3815976,20.3111856 L1.0740561,1.55209581 C0.759014694,1.02946108 1.30718675,0.410634731 1.84971627,0.676407186 L12.3815976,5.83597605 L24.718055,26.354012" id="Fill-4" stroke="none" fill="#3DAD63" fill-rule="evenodd" mask="url(#mask-5)"></path>
+                            <path d="M11.4885728,31.9363832 L0.353034464,26.4810539 C0.137207587,26.3752814 0,26.1529102 0,25.908982 L0,0.74788024 C0,0.29508982 0.464286401,-0.00239520958 0.864906225,0.193916168 L12.3815976,5.83597605 L12.3815976,31.3643114 C12.3815976,31.8319521 11.9021705,32.139018 11.4885728,31.9363832" id="Fill-5" stroke="none" fill="#00A366" fill-rule="evenodd" mask="url(#mask-5)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

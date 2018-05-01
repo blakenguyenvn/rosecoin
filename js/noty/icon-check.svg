@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-check" stroke="#FFFFFF">
+            <g id="Group-3" stroke-width="1.5">
+                <path d="M23.25,12 C23.25,5.78601356 18.2139864,0.75 12,0.75 C5.78601356,0.75 0.75,5.78601356 0.75,12 C0.75,18.2139864 5.78601356,23.25 12,23.25 C18.2139864,23.25 23.25,18.2139864 23.25,12 Z" id="Fill-1"></path>
+            </g>
+            <polyline id="Stroke-4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" points="17.2411995 8.2 11.408055 14.7634273 7.7612 11.846855"></polyline>
+        </g>
+    </g>
+</svg>

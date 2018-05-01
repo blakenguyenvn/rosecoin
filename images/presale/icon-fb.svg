@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-20.3%" y="-17.2%" width="140.6%" height="140.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Whipers---Pre-sales" transform="translate(-151.000000, -3245.000000)">
+            <g id="join-us" transform="translate(155.000000, 3144.000000)">
+                <g id="icon-fb" filter="url(#filter-1)" transform="translate(4.000000, 107.000000)">
+                    <path d="M0,32 C0,14.3268871 14.3268871,0 32,0 C49.6731129,0 64,14.3268871 64,32 C64,49.6731129 49.6731129,64 32,64 C14.3268871,64 0,49.6731129 0,32 Z" id="back" fill="#3B5998"></path>
+                    <path d="M34.2687401,49.7486356 L34.2687401,32.3389462 L39.0745758,32.3389462 L39.7114528,26.3394707 L34.2687401,26.3394707 L34.2769052,23.3366756 C34.2769052,21.77192 34.4255779,20.9334882 36.6730188,20.9334882 L39.6774316,20.9334882 L39.6774316,14.9333333 L34.8709155,14.9333333 C29.0975166,14.9333333 27.0654299,17.8437244 27.0654299,22.7380869 L27.0654299,26.3401502 L23.4666667,26.3401502 L23.4666667,32.3396256 L27.0654299,32.3396256 L27.0654299,49.7486356 L34.2687401,49.7486356 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
